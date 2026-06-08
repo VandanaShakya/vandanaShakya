@@ -12,6 +12,8 @@ function App() {
       <Hero />
       <About />
       <Skills />
+
+      {/* project section */}
       <Experience />
       <Contact />
       <footer className="py-8 text-center text-xs text-gray-400 tracking-widest uppercase">
